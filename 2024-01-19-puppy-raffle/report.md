@@ -14,7 +14,7 @@ header-includes:
 \includegraphics[width=0.5\textwidth]{logo.pdf}
 \end{figure}
 \vspace*{2cm}
-{\Huge\bfseries PasswordStore Audit Report\par}
+{\Huge\bfseries PuppyRaffle Audit Report\par}
 \vspace{1cm}
 {\Large Version 1.0\par}
 \vspace*{2cm}
